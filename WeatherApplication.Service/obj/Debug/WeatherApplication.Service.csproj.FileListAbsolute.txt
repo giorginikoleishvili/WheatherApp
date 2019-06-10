@@ -1,0 +1,13 @@
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatherApplication.Service.dll
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatherApplication.Service.pdb
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatheApplication.Repository.dll
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatherApplication.Data.dll
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatheApplication.Repository.pdb
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\WeatherApplication.Data.pdb
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\obj\Debug\WeatherApplication.Service.csprojAssemblyReference.cache
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\obj\Debug\WeatherApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\obj\Debug\WeatherApplication.Service.csproj.CopyComplete
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\obj\Debug\WeatherApplication.Service.dll
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\obj\Debug\WeatherApplication.Service.pdb
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\giorg\OneDrive\Desktop\WeatherApp-Data-Repository\WeatherApplication.Service\bin\Debug\Newtonsoft.Json.xml

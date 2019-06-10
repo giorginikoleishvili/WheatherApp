@@ -1,0 +1,14 @@
+C:\Users\pc\source\repos\WeatherApplication.Forms\WeatherApp\WeatherApplication.Network.Layer\bin\Debug\netstandard2.0\WeatherApplication.Network.Layer.deps.json
+C:\Users\pc\source\repos\WeatherApplication.Forms\WeatherApp\WeatherApplication.Network.Layer\bin\Debug\netstandard2.0\WeatherApplication.Network.Layer.dll
+C:\Users\pc\source\repos\WeatherApplication.Forms\WeatherApp\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\WeatherApplication.Forms\WeatherApp\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\WeatherApplication.Forms\WeatherApp\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\bin\Debug\netstandard2.0\WeatherApplication.Network.Layer.deps.json
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\bin\Debug\netstandard2.0\WeatherApplication.Network.Layer.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\bin\Debug\netstandard2.0\WeatherApplication.Network.Layer.pdb
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.csprojAssemblyReference.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.AssemblyInfoInputs.cache
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.AssemblyInfo.cs
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.dll
+C:\Users\Student.DESKTOP-JFLC3TS\Desktop\WeatherApp-Data-Repository\WeatherApplication.Network.Layer\obj\Debug\netstandard2.0\WeatherApplication.Network.Layer.pdb
